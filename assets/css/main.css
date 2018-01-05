@@ -1,0 +1,193 @@
+
+body
+ {
+  background-color:#313131;
+  
+ }
+h1
+{
+ font-size: 90px;
+ color: #ededed;
+ text-align: center;
+ font-family: 'Stalemate';
+
+
+}
+.powitanie
+ { 
+  padding: 10% 0% 1% 0%;
+  font-size: 55px;
+  color: #ededed;
+  text-align: center;
+  font-family: 'Stalemate', cursive;
+
+ }
+.content1
+ {
+  text-align: center;
+  background-color: #313131;
+  padding: 5% 0 10% 0;
+ }
+.domki li 
+ {
+  display: inline-block;
+  padding: 10px;
+  overflow: hidden;
+ }
+.domki
+ {  
+  background-color: #313131;
+  
+ }
+.content2
+{
+  text-align: center;
+  background-color: #ededed;
+  padding: 5% 0 20% 0;
+}
+h2 
+ {
+  font-size: 65px;
+  color:#313131;
+  text-align: center;
+  font-family: 'Stalemate', cursive;
+ }
+.widoki li
+{
+  display:inline-block;
+  padding: 10px;
+  overflow: hidden;
+  font-family: 'Stalemate' ;
+  text-align: center;
+  font-size: 38px;
+  color: #313131;
+}
+.widoki 
+{
+  background-color: #ededed;
+  text-align: center;
+  padding: 5px;
+}
+h3
+{
+ font-size: 65px;
+ color:white;
+ text-align: center;
+ font-family: 'Stalemate', cursive;
+
+}
+.content3 
+ {
+  text-align: center;
+  background-color: #313131;
+  padding: 5% 0 1% 0;
+  color: white;
+  
+ }
+.kaczki li 
+ {
+  display:inline-block;
+  padding: 10px;
+  overflow: hidden;
+  font-family: 'Stalemate' ;
+  text-align: center;
+  font-size: 38px;
+  color: white;
+
+ }
+.kaczki
+ {  
+  background-color: #313131;
+  padding-bottom: 0.5%;
+
+ }
+ 
+ h4
+ {
+  font-family: 'Stalemate', cursive; float: right; font-size: 22px;
+ }
+
+.domki img:hover
+  { transform:scale(1.5);}
+
+.widoki img:hover
+ {
+  width:400px;
+  height:auto;
+
+ }
+.kaczki img:hover
+ {
+  width:400px;
+  height:auto;
+ }
+
+ img  
+{
+ height: 170px;
+ width:170px;
+
+}
+.opis
+{ 
+  display:block;
+  color:#ededed;
+  font-size: 30px;
+  padding: 10% 25% 10% 25%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  list-style-type: none;
+}
+.opis li 
+{ 
+ padding: 1px;
+ font-family:'Open Sans Condensed', sans-serif; 
+ font-size: 30px;
+}
+
+.kontakt
+{
+  display:block;
+  color:#313131;
+  font-size: 39px;
+  padding: 5% 25% 15% 25%;
+  font-family: 'Stalemate' ;
+  text-align: center;
+  list-style-type: none;
+  background-color: #ededed;
+}
+.kontakt li
+{
+ font-family:'Open Sans Condensed', sans-serif; 
+ font-size: 30px; 
+}
+#nav
+ {
+  display: block;
+  font-family:'stalemate';
+  text-align: center;
+  color:#ededed;
+  padding: 2% 1% 3% 1%;
+  font-size: 35px;
+}
+#nav a
+ {
+  color: #fff;
+  margin-left: 3%;
+  margin-right: 2%;
+  width: auto;
+  height: auto;
+  float: left;
+  text-decoration: none;
+  -webkit-transition: all 0.5s ;
+}
+#nav a:hover
+{
+ transform:scale(1.75);
+}
+.blue
+{
+ color:blue;
+ background:none;
+}
+ 
